@@ -1,4 +1,4 @@
-# React Firebase Auth Example
+# React Webapp
 
 ##Inspiration
 We wanted to make something that could help bring the community together to help disabled and elderly people during this time when it is necessary to be social distancing. With this app, we wanted to give these people the opportunity to help others who are more susceptible to the virus’s negative effects and cannot risk going outside.
